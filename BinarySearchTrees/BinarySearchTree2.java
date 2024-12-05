@@ -61,8 +61,9 @@ public class BinarySearchTree2 {
     public boolean remove(Node tNode)
     {
        if(find(tNode)){
-           
+           return true;
        }
+    return false;
     }
 
     public void PreOrderTreversal(Node root){
