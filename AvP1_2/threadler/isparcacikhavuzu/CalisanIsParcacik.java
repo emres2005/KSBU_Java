@@ -1,4 +1,4 @@
-package threadler.isparcacikhavuzu;
+package AvP1_2.threadler.isparcacikhavuzu;
 
 public class CalisanIsParcacik implements Runnable{
     

@@ -1,4 +1,4 @@
-package interfaces;
+package AvP1_2.interfaces;
 
 public class Aslan implements SesliHayvan, KosanHayvan {
     @Override

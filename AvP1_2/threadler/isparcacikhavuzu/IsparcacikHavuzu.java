@@ -1,4 +1,4 @@
-package threadler.isparcacikhavuzu;
+package AvP1_2.threadler.isparcacikhavuzu;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

@@ -1,4 +1,4 @@
-package breakout;
+package AvP1_2.breakout;
 
 import javax.swing.*;
 import java.awt.*;

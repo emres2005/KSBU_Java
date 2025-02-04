@@ -1,4 +1,4 @@
-package interfaces;
+package AvP1_2.interfaces;
 
 public class Main {
     public static void main(String[] args) { 
